@@ -162,3 +162,4 @@ cython_debug/
 home.py
 memo_utils.py
 memos.py
+secrets.toml

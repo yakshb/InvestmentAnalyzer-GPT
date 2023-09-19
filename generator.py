@@ -12,7 +12,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, LLMMathChain, SimpleSequentialChain
 # from langchain.memory import ConversationBufferMemory
 
-load_dotenv()
+
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 SERPAPI_API_KEY = st.secrets["SERPAPI_API_KEY"]
 
