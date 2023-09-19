@@ -17,7 +17,7 @@ Download Report: You can download the generated report for offline use.
 ### About the Author
 Yaksh is a financial professional and tech enthusiast. Driven by passion and a love for leveraging AI tools and sharing knowledge, he created this platform to test new AI tools in the context of Web-enabled investment research and financial analysis.
 
-##### Connect with Yaksh on [LinkedIn]([url](https://www.linkedin.com/in/yakshb/)), and [Medium]([url](https://medium.com/@yakshb)).
+##### Connect with Yaksh on [LinkedIn](https://www.linkedin.com/in/yakshb/), and [Medium](https://medium.com/@yakshb).
 
 ##### Acknowledgments
 This application is Yaksh's entry for the Streamlit Hackathon held in September 2023. It's powered by Langchain and LlamaIndex.
