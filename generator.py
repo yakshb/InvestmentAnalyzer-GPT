@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 import streamlit as st
-from llama_index.llms import OpenAI
 
 from langchain.agents import load_tools, initialize_agent, AgentType
 from langchain.llms import OpenAI
