@@ -1,4 +1,4 @@
-## Investment Memo Generator (Powered by Langchain and GPT) ⚡
+## Investment Memo Generator (Powered by Streamlit, Langchain and LlamaIndex) ⚡
 ### Overview
 The Investment Memo Generator is an AI-powered tool designed to assist investors, analysts, and finance enthusiasts by generating comprehensive investment research for any company, be it public or private. It leverages the capabilities of Langchain and LlamaIndex to dive deep into the web, gather the most recent and relevant information about the company in question, and present it in a structured and comprehensive report.
 
