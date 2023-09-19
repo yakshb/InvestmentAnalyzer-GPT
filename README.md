@@ -14,8 +14,20 @@ Add Custom Notes: Optionally, you can add your custom notes or insights about th
 Generate Report: Click on the "Generate Investment Research" button and wait for the AI to present you with a detailed report.
 Download Report: You can download the generated report for offline use.
 
+---
+
+### Planned Updates (October 2023)
+As we continue to enhance the capabilities of the Investment Memo Generator, here are some of the planned updates:
+- Enhanced Langchain Web Agent: We aim to optimize the Langchain web agent's capabilities by chaining it with more intricate and robust prompt templates. This will ensure even more precise and detailed responses from the AI.
+- ServiceContext Enhancement: We're planning to utilize a datastore of sample investment memos. This will allow us to create a richer ServiceContext for the investment memo templates, ensuring that the generated memos are in line with industry standards and best practices.
+- Document Upload Feature: In future iterations, users will have the ability to upload documents in various formats such as PDFs, Word docs, etc. These can be investment memos, company pitches, or other relevant documents. By feeding these to the LLM engine, we aim to make the AI's responses even more informed and contextually relevant.
+
+Stay tuned for these exciting updates!
+
+--- 
+
 ### About the Author
-Yaksh is a financial professional and tech enthusiast. Driven by passion and a love for leveraging AI tools and sharing knowledge, he created this platform to test new AI tools in the context of Web-enabled investment research and financial analysis.
+Yaksh is a financial professional and tech enthusiast. Driven by passion and love for leveraging AI tools and sharing knowledge, he created this platform to test new AI tools in the context of Web-enabled investment research and financial analysis.
 
 ##### Connect with Yaksh on [LinkedIn](https://www.linkedin.com/in/yakshb/), and [Medium](https://medium.com/@yakshb).
 
