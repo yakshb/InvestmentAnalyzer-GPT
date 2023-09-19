@@ -2,21 +2,20 @@ import os
 from dotenv import load_dotenv
 import streamlit as st
 from llama_index.llms import OpenAI
-from llama_index import VectorStoreIndex, SimpleDirectoryReader, load_index_from_storage, StorageContext, ServiceContext, LLMPredictor
-import chromadb
 
 from langchain.agents import load_tools, initialize_agent, AgentType
 from langchain.llms import OpenAI
 from langchain.tools import Tool
-from langchain.callbacks import StreamlitCallbackHandler
+# from langchain.callbacks import StreamlitCallbackHandler
 from langchain.utilities import SerpAPIWrapper
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, LLMMathChain, SimpleSequentialChain
-from langchain.memory import ConversationBufferMemory
+# from langchain.memory import ConversationBufferMemory
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-SERP_API_KEY = os.getenv("SERP_API_KEY")
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+SERPAPI_API_KEY = st.secrets["SERPAPI_API_KEY"]
+
 
 # App frontend and framework
 st.set_page_config(
