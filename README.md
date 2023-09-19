@@ -9,10 +9,10 @@ The Investment Memo Generator is an AI-powered tool designed to assist investors
 - Custom Notes: Users can add their custom notes to the generated report for a more personalized analysis.
 
 ### How to Use
-Enter Company Name: Input the name of the company you want to research.
-Add Custom Notes: Optionally, you can add your custom notes or insights about the company.
-Generate Report: Click on the "Generate Investment Research" button and wait for the AI to present you with a detailed report.
-Download Report: You can download the generated report for offline use.
+- Enter Company Name: Input the name of the company you want to research.
+- Add Custom Notes: Optionally, you can add your custom notes or insights about the company.
+- Generate Report: Click on the "Generate Investment Research" button and wait for the AI to present you with a detailed report.
+- Download Report: You can download the generated report for offline use.
 
 ---
 
