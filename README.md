@@ -15,9 +15,9 @@ Generate Report: Click on the "Generate Investment Research" button and wait for
 Download Report: You can download the generated report for offline use.
 
 ### About the Author
-Yaksh Birla is a financial professional and tech enthusiast. Driven by passion and a love for leveraging AI tools and sharing knowledge, he created this platform to test new AI tools in the context of Web-enabled investment research and financial analysis.
+Yaksh is a financial professional and tech enthusiast. Driven by passion and a love for leveraging AI tools and sharing knowledge, he created this platform to test new AI tools in the context of Web-enabled investment research and financial analysis.
 
-##### Connect with Yaksh on LinkedIn, Github, and Medium.
+##### Connect with Yaksh on [LinkedIn]([url](https://www.linkedin.com/in/yakshb/)), and [Medium]([url](https://medium.com/@yakshb)).
 
 ##### Acknowledgments
 This application is Yaksh's entry for the Streamlit Hackathon held in September 2023. It's powered by Langchain and LlamaIndex.
